@@ -1,7 +1,21 @@
-# TTS
+# Terrain Tile Server
 
-Terrain Tile Server is a lightweight Quantized Mesh Tile Server
+Terrain Tile Server is a lightweight Quantized Mesh Tile Server.
 
-Currently configured to be used for TGS / STK Terrain Database files.
+Main difference fron TGS server is this version is lightweight and desktop aimed.
 
-However it can be configured to be used with file based tilesets aswell (*.terrain files)
+It is to be used for TGS / STK Terrain Database files.
+
+First Beta release will be online soon.
+
+## Features
+
+* Cesium STK Terrain Server dataset file format support
+* Serve settings editable on the fly
+* Tilsets can be added and removed on the fly
+* Monitoring stats
+
+![1](https://dl.dropboxusercontent.com/s/qtuosbpvoxysghj/1.png?dl=0)
+
+![2](https://dl.dropboxusercontent.com/s/i9i7996xu5fg28s/2.png?dl=0)
+
