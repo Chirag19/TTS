@@ -2,7 +2,7 @@
 
 Terrain Tile Server is a lightweight Quantized Mesh Tile Server.
 
-Main difference fron TGS server is this version is lightweight and desktop aimed.
+Main difference from TGS server is this version is to be lightweight, only serving capable and desktop aimed.
 
 It is to be used for TGS / STK Terrain Database files.
 
