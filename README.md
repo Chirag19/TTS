@@ -6,7 +6,7 @@ Main difference fron TGS server is this version is lightweight and desktop aimed
 
 It is to be used for TGS / STK Terrain Database files.
 
-First Beta release will be online soon.
+First Beta release will be online at www.terrainserver.com
 
 ## Features
 
