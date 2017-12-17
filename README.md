@@ -10,7 +10,7 @@ First Beta release is  online
 
 ## Beta Releases
 
-* Windows x64 [HERE](www.terrainserver.com/tts/TTS_x64_Setup.msi)
+* Windows x64 [HERE](https://www.terrainserver.com/tts/TTS_x64_Setup.msi)
 
   This version is tested on Windows 10 and 7. Please provide feedback about your experiences.
 
