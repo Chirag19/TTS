@@ -6,7 +6,13 @@ Main difference from TGS server is this version is to be lightweight, only servi
 
 It is to be used for TGS / STK Terrain Database files.
 
-First Beta release will be online at www.terrainserver.com
+First Beta release is  online 
+
+## Beta Releases
+
+* Windows x64 [HERE](www.terrainserver.com/tts/TTS_x64_Setup.msi)
+
+  This version is tested on Windows 10 and 7. Please provide feedback about your experiences.
 
 ## Features
 
@@ -15,7 +21,25 @@ First Beta release will be online at www.terrainserver.com
 * Tilsets can be added and removed on the fly
 * Monitoring stats
 
-![1](https://dl.dropboxusercontent.com/s/qtuosbpvoxysghj/1.png?dl=0)
 
-![2](https://dl.dropboxusercontent.com/s/i9i7996xu5fg28s/2.png?dl=0)
+## Usage
 
+Register with your email and receive your password vie email address
+
+If you have your terrain file locally you can skip here and proceed to next step
+
+![1](https://dl.dropboxusercontent.com/s/uzf24i9i4nv882i/Monitor.png?dl=0)
+
+Request a terrain database from remote server
+
+You will receive download link vie email
+
+![2](https://dl.dropboxusercontent.com/s/qrw5v865l1g8z3d/Remote.png?dl=0)
+
+Add your DB file and set up your serve path and details
+
+![3](https://dl.dropboxusercontent.com/s/mg7bn2yg6fa4nfd/Local.png?dl=0)
+
+You can change some settings if required
+
+![4](https://dl.dropboxusercontent.com/s/tznw3s7i4kr5td2/Settings.png?dl=0)
