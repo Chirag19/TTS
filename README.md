@@ -8,8 +8,9 @@ It is to be used for TGS / STK Terrain Database files.
 
 First Beta release is  online 
 
-## Beta Releases
+## Beta Releases (Latest 0.0.2b)
 
+* Minor bug fixes applied.
 * Windows x64 [HERE](https://www.terrainserver.com/tts/TTS_x64_Setup.msi)
 
   This version is tested on Windows 10 and 7. Please provide feedback about your experiences.
