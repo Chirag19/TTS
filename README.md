@@ -1,5 +1,7 @@
 # Terrain Tile Server
 
+IMPORTANT NOTICE : TTS backend will go offline soon. If many require an offline version i will try to build one and release.
+
 Terrain Tile Server is a lightweight Quantized Mesh Tile Server.
 
 Main difference from TGS server is this version is to be lightweight, only serving capable with minimum setup effort and hardware requirements.
